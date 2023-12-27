@@ -1,16 +1,14 @@
-# Frontend Mentor - Results summary component solution
+# Frontend Mentor - Results summary component
 
 This is a solution to the Results summary component challenge on Frontend Mentor
 
 ### Screenshot
 
- ![](https://github.com/ronM3/results-summary-component/tree/main/screenshot/finish-screenshot.png)
+ ![](https://github.com/ronM3/results-summary-component/blob/main/screenshot/finish-screenshot.png)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+### Live
+- Live Site URL: https://ronm3.github.io/results-summary-component/
 
 ### Built with
 
